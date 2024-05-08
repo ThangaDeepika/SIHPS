@@ -16,13 +16,13 @@ An E-Waste Facility Locator is a digital platform that helps users locate nearby
 ## Proposed Solution 
 
 The E-Waste Facility Locator will be a web and/or mobile application that allows users to input their location and find the nearest e-waste recycling facilities. Users can also search for specific types of e-waste they want to dispose of, such as old computers, phones, batteries, etc. The application will provide information about each facility, including address, contact details, accepted items, operating hours, and any fees associated with disposal.
-```
+
 ## Architecture Diagram
 ```
 ![WhatsApp Image 2024-05-08 at 13 32 13_3a51076d](https://github.com/ThangaDeepika/SIHPS/assets/125663099/beb3c239-9948-4124-854d-f1561c915430)
 ```
 ## Use Cases
-```
+
   Finding Nearby Facilities: Users can easily locate the nearest e-waste recycling facilities or collection points.
   Viewing Facility Details: Users can view detailed information about each facility, including operating hours and contact details.
   Navigating to Facilities: Integration with mapping services allows users to navigate to selected facilities using GPS.
@@ -30,9 +30,9 @@ The E-Waste Facility Locator will be a web and/or mobile application that allows
   Community Engagement: Encouraging community involvement through features like user reviews, ratings, and sharing options.
   Premium Features: Offering premium features such as ad-free browsing or priority support to generate revenue and support app maintenance.
   Environmental Impact Tracking: Tracking the amount of e-waste recycled through the platform to demonstrate environmental impact and encourage user participation.
-```
+
 ## Technology Stack
-```
+
 Frontend:
   Web:HTML, CSS, JavaScript (React.js, Angular, or Vue.js)
   Mobile: React Native, Flutter
@@ -53,9 +53,9 @@ Additional Services:
 Development Tools:
   Version Control: Git (GitHub, GitLab, Bitbucket)
   IDE: Visual Studio Code, PyCharm, IntelliJ IDEA
-```
+
 ## Dependencies
-```
+
 Data on E-Waste Facilities:
   Collaboration with local governments, recycling organizations, and environmental agencies to gather and verify data on e-waste recycling facilities.
   Regular updates to ensure accuracy of facility information.
@@ -71,6 +71,6 @@ Privacy and Security:
 User Experience:
   User-friendly interface design to enhance usability and encourage engagement.
   Testing for compatibility across different devices and browsers.
-```
+
 
 
