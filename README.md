@@ -10,11 +10,11 @@ Website that tells you the location of the nearest e-waste collection and recycl
 Ministry of Environment
 
 ## Idea
-```
+
 An E-Waste Facility Locator is a digital platform that helps users locate nearby facilities where they can responsibly dispose of electronic waste (e-waste). With the increasing amount of electronic devices being discarded, it's crucial to provide convenient and accessible avenues for proper disposal to mitigate environmental damage and health risks associated with improper disposal practices.
-```
+
 ## Proposed Solution 
-```
+
 The E-Waste Facility Locator will be a web and/or mobile application that allows users to input their location and find the nearest e-waste recycling facilities. Users can also search for specific types of e-waste they want to dispose of, such as old computers, phones, batteries, etc. The application will provide information about each facility, including address, contact details, accepted items, operating hours, and any fees associated with disposal.
 ```
 ## Architecture Diagram
